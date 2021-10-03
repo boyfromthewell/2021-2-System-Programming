@@ -100,7 +100,7 @@ const double PI = 3.14;
 
 * Library 의 필요성
     
-    disk의 속도 매우 느리기 때문에, 자주 사용하는 object코드 따로 그룹화 해서 저장
+    disk의 속도 매우 느리기 때문에, 자주 사용하는 object코드 따로 그룹화 해서 저장 (ex. printf(), scanf()....)
 
 ## Scope and Class
 * Local variable (지역 변수)
