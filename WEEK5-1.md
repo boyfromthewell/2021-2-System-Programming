@@ -12,7 +12,9 @@
 
 *** 
 
-* Unsigned Integers, Signed Integers (양의 정수, 음의 정수)
+* Unsigned Integers - 숫자의 양수만 표현 가능한 값 (부호를 가질 수 없어, 양수인지 음수인지 구분 X)
+
+* Signed Integers - 숫자의 양수, 음수 전부 표현 가능한 값 (부호를 가질 수 있어, 양수인지 음수인지 구분 O), C언어에서 디
 
 음,양의 정수를 이진수로 어떻게 표현 할까?
 
