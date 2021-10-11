@@ -185,5 +185,6 @@ mov src, dst => dst = src 의미 (AT&T기준)
 <img width="70%" src="https://user-images.githubusercontent.com/86250281/136822294-e38f3925-8b8b-4409-9b3d-e71bffb1547e.png"/>
 
 ***
-실제 어셈블리 코드 확인해보기
+## 실제 어셈블리 코드 확인해보기
+
 <img width="50%" src="https://user-images.githubusercontent.com/86250281/136823254-3bf945ea-e3a7-428c-a972-2781cb0e029a.png"/><img width="50%" src="https://user-images.githubusercontent.com/86250281/136823340-2dfbf82a-c4cc-4ef7-a792-e8db4dd60f3e.png"/>
